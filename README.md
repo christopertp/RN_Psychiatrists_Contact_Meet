@@ -22,5 +22,5 @@ Gambaran proses React Native bridge ke Method Native Module :
 
 ```mermaid
 graph LR
-A[App.js] --> B(CustomRNModule.js) --> C(CustomModulePackage) --> D(CustomModule) --> cirlce(joinJitsiMeet)
+A[App.js] --> B(CustomRNModule.js) --> C(CustomModulePackage) --> D(CustomModule) --> E(joinJitsiMeet)
 ```
